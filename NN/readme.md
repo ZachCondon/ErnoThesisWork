@@ -1,1 +1,1 @@
-As far as I can tell, when you download this directory, everything should work. I tried to make it all self contained. If you run into any issues, let me know.
+As far as I can tell, when you download this directory, everything should work. I tried to make it all self contained and the only thing you should need to do is run main.py. If you run into any issues, let me know.
